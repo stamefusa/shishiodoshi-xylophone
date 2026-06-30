@@ -290,6 +290,7 @@ void setup() {
   }
 
   Serial.begin(SERIAL_BAUD_RATE);
+  delay(1000);
   Serial.println(F("READY"));
 }
 

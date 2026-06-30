@@ -1,0 +1,9 @@
+MIDI inputs:
+  microKEY-25 KEYBOARD
+Serial ports:
+  /dev/cu.debug-console  [n/a]
+  /dev/cu.AtomLite  [n/a]
+  /dev/cu.JabraElite5  [n/a]
+  /dev/cu.Bluetooth-Incoming-Port  [n/a]
+  /dev/cu.usbmodemSN234567892  [USB BillBoard]
+  /dev/cu.usbmodem11301  [UNO R4 Minima]

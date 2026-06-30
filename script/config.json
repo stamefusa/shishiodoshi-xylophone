@@ -1,0 +1,17 @@
+{
+  "midiInput": "microKEY-25 KEYBOARD",
+  "serialPort": "/dev/cu.usbmodem11301",
+  "baudRate": 115200,
+  "ackTimeoutMs": 1000,
+  "startupTimeoutMs": 10000,
+  "notes": [
+    {"name": "C",  "midiNote": 48, "arduinoPin": 2, "pumpDurationMs": 300, "cooldownMs": 5000, "enabled": true},
+    {"name": "D",  "midiNote": 50, "arduinoPin": 3, "pumpDurationMs": 300, "cooldownMs": 5000, "enabled": true},
+    {"name": "E",  "midiNote": 52, "arduinoPin": 4, "pumpDurationMs": 300, "cooldownMs": 5000, "enabled": true},
+    {"name": "F",  "midiNote": 53, "arduinoPin": 5, "pumpDurationMs": 300, "cooldownMs": 5000, "enabled": true},
+    {"name": "G",  "midiNote": 55, "arduinoPin": 6, "pumpDurationMs": 300, "cooldownMs": 5000, "enabled": true},
+    {"name": "A",  "midiNote": 57, "arduinoPin": 7, "pumpDurationMs": 300, "cooldownMs": 5000, "enabled": true},
+    {"name": "B",  "midiNote": 59, "arduinoPin": 8, "pumpDurationMs": 300, "cooldownMs": 5000, "enabled": true},
+    {"name": "C2", "midiNote": 60, "arduinoPin": 9, "pumpDurationMs": 300, "cooldownMs": 5000, "enabled": true}
+  ]
+}
